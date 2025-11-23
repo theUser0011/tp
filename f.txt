@@ -1,0 +1,18 @@
+Hello, my name is B, and I am a Full Stack Developer with a strong focus on backend development and modern web technologies. I hold a Bachelor’s Degree in Computer Science Applications with a specialization in Artificial Intelligence, which has provided me with a solid foundation in programming, problem-solving, and analytical thinking.
+
+Throughout my professional journey, I have gained extensive experience in designing and developing end-to-end web applications, particularly emphasizing backend architecture. My expertise spans multiple Python-based frameworks, including Django, Flask, and FastAPI, allowing me to build scalable, secure, and high-performance APIs. I am highly proficient in Django REST Framework (DRF) for creating RESTful APIs, implementing JWT-based authentication, handling user permissions, and optimizing query performance with Django ORM. Additionally, I have hands-on experience with Flask for lightweight microservices and FastAPI for asynchronous, high-performance API development.
+
+Beyond Python, I also work with Node.js for backend development, using Express.js and NestJS to develop robust server-side applications. I have integrated Node.js with MongoDB for NoSQL solutions and PostgreSQL for relational database management, providing flexibility in designing data models suited to the application’s requirements. My experience with databases includes writing optimized queries, managing migrations, ensuring data integrity, and implementing indexing strategies for performance improvement.
+
+On the frontend, I am skilled in React.js, HTML, and CSS, creating responsive, user-friendly interfaces that communicate efficiently with backend APIs. I pay close attention to performance optimization, state management, and smooth user experience. I am also proficient in using Git for version control, facilitating collaborative development and organized workflows across teams.
+
+My approach to software development is deeply rooted in logical thinking and systematic debugging. I enjoy tracing complex issues, analyzing logs, isolating problems, and implementing preventive solutions. I believe that a strong backend is critical to building reliable and scalable applications, and I take pride in creating robust, maintainable, and modular code.
+
+I have further honed my problem-solving and algorithmic skills through participation in hackathons and coding platforms such as CodeChef and HackerRank. I have also completed a comprehensive Full Stack Django with React certification course on Udemy, strengthening both my technical foundation and practical project development experience.
+
+Overall, I am passionate about building efficient, scalable, and maintainable backend systems, while seamlessly integrating them with frontend interfaces. I strive to contribute to innovative projects where I can leverage my expertise in Python and Node.js backend development, database design, API architecture, and full-stack solutions to deliver impactful, high-quality applications.
+
+function sanitizeContent(content) {
+  const sanitized = content.replace(/[^a-zA-Z0-9 .,']/g, '');
+  copy(sanitized)
+}
